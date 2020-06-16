@@ -8,6 +8,9 @@ SYMMF-net is a network analysis tool for Microbiome
 2. NMF_analysis.R -- R script for NMF analysis
 3. SYMMF_net_analysis.py -- Python script for SYMMF-net analysis
 
+## Prerequisites 
+
+
 ## Running Script example
 
 1. Running NMF_analysis.R script
